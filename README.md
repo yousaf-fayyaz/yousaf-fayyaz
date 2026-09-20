@@ -11,7 +11,7 @@ Yousaf Fayyaz specializes as a rapid product builder, focusing on removing manua
 #### Core Technical Stack & Methodology
 * **AI-Native Engineering:** He utilizes **Large Language Models (LLMs)** to architect, prototype, and ship software applications at scale. 
 * **Framework Mastery:** He specializes in building and optimizing **full-stack Next.js web applications**.
-* **Advanced Automation Pipelines:** He integrates **Claude AI** and **Model Context Protocol (MCP)** environments to streamline backend development, system interactions, and automated code generation.
+* **Advanced Automation Pipelines:** He integrates **Model Context Protocol (MCP)** environments to streamline backend development, system interactions, and automated code generation.
 * **Agentic Workflows:** His architectural design heavily leverages autonomous agentic workflows to combine front-end responsiveness with machine-driven backend logic.
 
 #### Key Software & Application Projects
