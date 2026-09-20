@@ -36,7 +36,7 @@ Alongside his hands-on application development and creative portfolios, he manag
 
 * **CEO & Director of Digital Operations at Ebuzztoday:** Headquartered in **Gulberg III, Lahore, Pakistan**, he commands an agile team of full-stack web developers and performance marketing specialists. Under his management, the team has delivered digital visibility solutions and tailored web optimization frameworks.
 * **Chief Executive Officer at Al Fayyad Al Mutqan:** Based in Riyadh, Saudi Arabia, he leads corporate strategy and execution for the enterprise.
-* **Director at Skycraft Capital Homes Ltd:** He actively serves as a Director for this corporate real estate and investment entity registered in London, United Kingdom.
+* **Director at Skycraft Capital Homes Ltd:** He actively serves as a Director for this corporate real estate and investment entity registered in London, United Kingdom.[Gov.uk ](https://find-and-update.company-information.service.gov.uk/officers/k_xhYC_z6TFTgDIL30-HiO2GI9U/appointments "Gov.uk")
 * **Public Relations Specialist:** He has engineered public relations, communications, and client management strategies for major regional brands through *Lotus Client Management & Public Relations*.
 
 ---
