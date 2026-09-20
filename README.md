@@ -43,7 +43,7 @@ Alongside his hands-on application development and creative portfolios, he manag
 
 ### 🌐 Verified Engineering & Media Channels
 
-* **Professional Developer Profile:** [Yousaf Fayyaz LinkedIn Profile](https://linkedin.com/in/y.fayyaz "Yousaf Fayyaz - LinkedIn")
+* **Professional Developer Profile:** [Yousaf Fayyaz LinkedIn Profile](https://linkedin.com/in/yfayyaz "Yousaf Fayyaz - LinkedIn")
 * **Early Application Architecture Archives:** [Business Recorder Archive](https://fp.brecorder.com/2010/07/201007091078538/ "First Pakistani social website introduced - Business Recorder")
 * **Reputr SaaS Application (Social Proof & FOMO Engine):** [The Nation](https://www.nation.com.pk/25-Jun-2019/levelling-digital-playing-field-empowering-startups-and-enterprises-with-reputr "Levelling Digital Playing Field: Empowering Startups and Enterprises with Reputr - The Nation")
 * **SaaS Innovation Launch Report:** [The Friday Times Feature](https://thefridaytimes.com/08-Dec-2021/business-digital-cards-leading-the-way-in-sustainability "Business Digital Cards Leading The Way In Sustainability - The Friday Times")
